@@ -457,7 +457,7 @@ iframe {
 #about-banner {
   height: 100vh;
   width: 100%;
-  background-image: url(./images/about-banner.jpg);
+  background-image: url(images/images/about-banner.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -526,7 +526,7 @@ iframe {
 }
 
 .pic-container-community {
-  background-image: url(./images/community-pic-BW.jpg);
+  background-image: url(images/images/community-pic-BW.jpg);
   width: 100%;
   background-size: cover;
   height: 100%;
@@ -572,7 +572,7 @@ iframe {
 }
 
 .slide-img1 {
-  background-image: url(./images/brown-pic-river.jpg);
+  background-image: url(images/images/brown-pic-river.jpg);
   width: 100%;
   background-size: cover;
   height: 100%;
@@ -609,7 +609,7 @@ iframe {
 }
 
 .slide-img3 {
-  background-image: url(./images/home-culture2.jpg);
+  background-image: url(images/images/home-culture2.jpg);
   width: 100%;
   background-size: cover;
   height: 100%;
@@ -622,7 +622,7 @@ iframe {
 }
 
 .slide-img4 {
-  background-image: url(./images/river-entity.jpg);
+  background-image: url(images/images/river-entity.jpg);
   width: 100%;
   background-size: cover;
   height: 100%;
@@ -639,7 +639,7 @@ iframe {
 }
 
 .pic-container-culture {
-  background-image: url(./images/fight-pic.jpg);
+  background-image: url(images/images/fight-pic.jpg);
   width: 100%;
   background-size: cover;
   height: 100%;
@@ -669,7 +669,7 @@ iframe {
 
 .left-container {
   background-color: rgba(0,0,0,0.8);
-  background-image: url(./images/left-image-contact.jpg);
+  background-image: url(images/images/left-image-contact.jpg);
   width: 50%;
   background-size: cover;
   height: 100%;
@@ -1019,7 +1019,7 @@ input:focus, #message:focus{
 }
 
 .message::after {
-  background-image: url('./images/message-mobile.jpg');
+  background-image: url('images/images/message-mobile.jpg');
   width: 50%;
   height: 50%;
 }
