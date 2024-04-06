@@ -266,7 +266,7 @@ footer hr {
 
 .home-image1 {
   width: 40%;
-  background-image: url(images/home-location1.jpg);
+  background-image: url(images/images/home-location1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -285,7 +285,7 @@ footer hr {
 
 .home-image2 {
   width: 40%;
-  background-image: url(./images/home-culture2.jpg);
+  background-image: url(images/images/home-culture2.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -313,7 +313,7 @@ iframe {
 #activity-banner {
   height: 100vh;
   width: 100%;
-  background-image: url(./images/activity-banner.jpg);
+  background-image: url(images/images/activity-banner.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
